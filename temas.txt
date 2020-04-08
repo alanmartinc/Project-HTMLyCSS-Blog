@@ -1,0 +1,9 @@
+1) Header y logo. 
+2) Menu desplegable.
+3) Sidebar.
+4) Footer. 
+5) Estilos globales. 
+6) Estilos a la navegacion.
+7) Multiples niveles.
+8) Estilos al contenido principal.
+9) Articulos.
